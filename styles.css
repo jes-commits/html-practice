@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+	border-top: 5px solid red;
+	border-radius: 20px;
+	margin-left: 400px;
+	margin-right: 400px;
+	background-color: gray;
+}
+
+#curriculum {
+	background-color: gray;
+	text-align: center;
+	color: blue;
+	border-radius: 20px;
+	margin:0px 400px 0px 400px;
+	border-top: 5px solid red;
+}
